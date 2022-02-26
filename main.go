@@ -7,4 +7,6 @@ func main() {
 
 	hand.print()
 	remainingCards.print()
+	// greeting := "Hi, There!"
+	// fmt.Println([]byte(greeting))
 }
